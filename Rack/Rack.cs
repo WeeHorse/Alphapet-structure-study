@@ -1,0 +1,6 @@
+namespace RackSystem;
+
+class Rack
+{
+
+}

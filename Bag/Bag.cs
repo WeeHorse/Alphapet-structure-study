@@ -1,0 +1,6 @@
+namespace BagSystem;
+
+class Bag
+{
+
+}
